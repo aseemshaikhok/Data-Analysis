@@ -1,0 +1,22 @@
+2024-02-02 22:12:29 ETL Process Started
+2024-02-02 22:12:29 Directory for ETL Created
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+ 11  516k   11 62463    0     0   161k      0  0:00:03 --:--:--  0:00:03  160k
+100  516k  100  516k    0     0  1034k      0 --:--:-- --:--:-- --:--:-- 1033k
+2024-02-02 22:12:35 Download Completed
+fileformats.txt
+payment-data.txt
+._tollplaza-data.tsv
+tollplaza-data.tsv
+._vehicle-data.csv
+vehicle-data.csv
+2024-02-02 22:12:39 File Unzipped
+2024-02-02 22:12:42 New file created with columns 1,2,3,4 as csv_d.csv
+2024-02-02 22:12:45 New file created with columns 5,6,7 as tsv_d.csv
+2024-02-02 22:12:49 New file created with second last and last columns as fixed_width_d.csv
+2024-02-02 22:12:52 3 CSV files merged to merged_table.csv
+2024-02-02 22:12:55 Column 4 converted to Upper Case
+
