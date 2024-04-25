@@ -1,0 +1,18 @@
+2024-01-30 00:10:01  - INFO - Folders for ETL process created
+2024-01-30 00:10:01  - INFO - Download started
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 61.6M    0 98286    0     0   257k      0  0:04:05 --:--:--  0:04:05  256k 17 61.6M   17 10.8M    0     0  8096k      0  0:00:07  0:00:01  0:00:06 8095k 44 61.6M   44 27.1M    0     0  11.3M      0  0:00:05  0:00:02  0:00:03 11.3M 89 61.6M   89 54.9M    0     0  16.1M      0  0:00:03  0:00:03 --:--:-- 16.1M100 61.6M  100 61.6M    0     0  17.6M      0  0:00:03  0:00:03 --:--:-- 17.6M
+2024-01-30 00:10:01  - INFO - Download finished
+2024-01-30 00:10:01  - INFO - Empty transformed csv file created
+2024-01-30 00:10:01  - INFO - Copying Column 1,2,4,5 from covid.csv to transformed.csv
+2024-01-30 00:10:01  - INFO - Copy finished
+2024-01-30 00:10:01  - INFO - Python script started
+2024-01-30 00:10:06,551 - INFO - Database covid created.
+2024-01-30 00:10:06,619 - INFO - Database Connected.
+2024-01-30 00:10:06,645 - INFO - Covid table created.
+2024-01-30 00:10:08,388 - INFO - Data Insertion in table Covid completed
+2024-01-30 00:10:08,388 - INFO - Rows copied 277237
+2024-01-30 00:10:08,417 - INFO - Dataset committed to table Covid Completed
+2024-01-30 00:10:01  - INFO - Python script finished
+2024-01-30 00:10:01  - INFO - ETL process finished
